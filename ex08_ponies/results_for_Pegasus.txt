@@ -1,0 +1,38 @@
+PLACE     POINTS    NAME                KIND                COAT COLOR          MANE COLOR          EYE COLOR           LOCATION
+--------------------------------------------------------------------------------------------------------------------------------
+1         10        Amaranthine Fauna   Pegasus             magenta             magenta             purple              Golden Oak Library
+2         10        Charity Slice       Pegasus             purple              magenta             magenta             Crusaders Clubhouse
+3         10        Cherry Bow          Pegasus             magenta             magenta             yellow              Schoolhouse
+4         10        Cloudy Blossom      Pegasus             red                 blue                magenta             Train station
+5         10        Lavender Appleby    Pegasus             blue                orange              magenta             Castle of Friendship
+6         10        Pear Appleby        Pegasus             magenta             orange              cyan                School of Friendship
+7         10        Trouble Apple       Pegasus             magenta             cyan                magenta             Castle of Friendship
+8         9         Cherry Quartz       Pegasus             purple              pink                cyan                Golden Oak Library
+9         9         Gizmo Leaves        Pegasus             cyan                pink                magenta             Golden Oak Library
+10        9         Orange Jubilee      Pegasus             pink                red                 yellow              Town Hall
+11        9         Perfect Banter      Pegasus             pink                purple              magenta             School of Friendship
+12        9         Suri Pie            Pegasus             pink                pink                green               Golden Oak Library
+13        8         Apricot Bow         Pegasus             cyan                purple              purple              Crusaders Clubhouse
+14        7         Ambrosia Slice      Pegasus             purple              yellow              orange              Retirement Village
+15        7         Barbara Bobbin      Pegasus             yellow              orange              purple              Crusaders Clubhouse
+16        7         Barbara Fauna       Pegasus             red                 orange              yellow              Golden Oak Library
+17        7         Beauty Slice        Pegasus             orange              pink                magenta             School of Friendship
+18        7         Charity Curls       Pegasus             blue                orange              green               Schoolhouse
+19        7         Cheerilee Polomare  Pegasus             orange              green               orange              Castle of Friendship
+20        7         Coco Cinnamon       Pegasus             orange              purple              purple              Town Hall
+21        7         Mage Steps          Pegasus             cyan                orange              magenta             Schoolhouse
+22        7         Mudbriar Velour     Pegasus             cyan                cyan                orange              Retirement Village
+23        7         Prim Slice          Pegasus             orange              magenta             yellow              School of Friendship
+24        6         Ambrosia Sweet      Pegasus             yellow              red                 green               Schoolhouse
+25        6         Cherry Jubilee      Pegasus             red                 yellow              brown               Town Hall
+26        6         Perfect Steps       Pegasus             red                 green               magenta             School of Friendship
+27        6         Quibble Slice       Pegasus             red                 yellow              pink                Theater
+28        6         Suri Brella         Pegasus             brown               cyan                red                 Retirement Village
+29        6         Twisty Curls        Pegasus             yellow              pink                red                 Train station
+30        6         Wensley Bumpkin     Pegasus             red                 brown               pink                Town Hall
+31        5         Amaranthine Brown   Pegasus             orange              yellow              red                 Golden Oak Library
+32        5         Amethyst Shores     Pegasus             cyan                orange              yellow              Train station
+33        5         Cheerilee Honey     Pegasus             green               blue                yellow              Retirement Village
+34        5         Mudbriar Bumpkin    Pegasus             purple              yellow              red                 Crusaders Clubhouse
+35        5         Peachy Appleby      Pegasus             orange              yellow              yellow              Schoolhouse
+36        5         Silver Jubilee      Pegasus             purple              yellow              yellow              Golden Oak Library

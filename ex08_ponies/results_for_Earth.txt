@@ -1,0 +1,40 @@
+PLACE     POINTS    NAME                KIND                COAT COLOR          MANE COLOR          EYE COLOR           LOCATION
+--------------------------------------------------------------------------------------------------------------------------------
+1         10        Cheerilee Pie       Earth               pink                purple              magenta             Castle of Friendship
+2         10        Feather Fauna       Earth               magenta             magenta             cyan                Theater
+3         10        Feather Pie         Earth               green               magenta             yellow              Crusaders Clubhouse
+4         10        Florina Cobbler     Earth               magenta             pink                blue                Theater
+5         10        Suri Butter         Earth               green               cyan                magenta             Train station
+6         10        Trouble Cinnamon    Earth               red                 blue                magenta             Train station
+7         9         Apple Sweet         Earth               brown               pink                pink                Crusaders Clubhouse
+8         9         Hoofer Tracker      Earth               pink                cyan                red                 Theater
+9         9         Pear Cinnamon       Earth               cyan                yellow              pink                Retirement Village
+10        9         Perfect Velour      Earth               pink                pink                blue                Theater
+11        9         Wensley Bangs       Earth               pink                magenta             pink                Castle of Friendship
+12        8         Amaranthine Pants   Earth               brown               purple              yellow              Schoolhouse
+13        8         Bella Brass         Earth               purple              cyan                orange              Town Hall
+14        8         Cheerilee Bow       Earth               blue                purple              magenta             Schoolhouse
+15        8         Coco Dumpling       Earth               purple              magenta             purple              Theater
+16        8         Mage Perin          Earth               magenta             purple              green               Schoolhouse
+17        8         Wensley Fauna       Earth               green               magenta             purple              Retirement Village
+18        7         Amethyst Fauna      Earth               orange              blue                green               Town Hall
+19        7         Apple Polomare      Earth               orange              pink                orange              Castle of Friendship
+20        7         Azure Tracker       Earth               purple              orange              blue                Crusaders Clubhouse
+21        7         Barbara Velour      Earth               green               orange              brown               Golden Oak Library
+22        7         Charity Brella      Earth               magenta             orange              blue                Crusaders Clubhouse
+23        7         Charity Shoes       Earth               orange              blue                orange              School of Friendship
+24        7         Coco Fritter        Earth               yellow              yellow              orange              Castle of Friendship
+25        7         Gizmo Shores        Earth               magenta             yellow              orange              Castle of Friendship
+26        7         Hoofer Split        Earth               orange              magenta             green               Theater
+27        7         Orange Kindheart    Earth               cyan                orange              red                 Crusaders Clubhouse
+28        7         Quibble Jubilee     Earth               brown               brown               orange              Retirement Village
+29        7         Suri Bumpkin        Earth               cyan                orange              magenta             Crusaders Clubhouse
+30        6         Apple Apple         Earth               yellow              red                 brown               Schoolhouse
+31        6         Blueberry Perin     Earth               blue                red                 orange              Schoolhouse
+32        6         Hoofer Jubilee      Earth               green               blue                red                 Retirement Village
+33        6         Quibble Bangs       Earth               orange              brown               red                 Castle of Friendship
+34        6         Silver Sweet        Earth               red                 magenta             yellow              Theater
+35        6         Suri Slice          Earth               purple              red                 pink                Schoolhouse
+36        5         Bell Cobbler        Earth               orange              yellow              blue                Crusaders Clubhouse
+37        5         Mage Blossom        Earth               yellow              blue                green               School of Friendship
+38        5         Pinkie Pommel       Earth               purple              yellow              red                 Schoolhouse

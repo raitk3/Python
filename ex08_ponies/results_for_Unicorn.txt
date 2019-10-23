@@ -1,0 +1,38 @@
+PLACE     POINTS    NAME                KIND                COAT COLOR          MANE COLOR          EYE COLOR           LOCATION
+--------------------------------------------------------------------------------------------------------------------------------
+1         10        Charity Kindheart   Unicorn             magenta             blue                red                 School of Friendship
+2         10        Florina Quartz      Unicorn             magenta             pink                cyan                Town Hall
+3         10        Magdalena Orange    Unicorn             brown               yellow              magenta             Retirement Village
+4         9         Azure Slice         Unicorn             cyan                pink                yellow              Golden Oak Library
+5         9         Bella Shores        Unicorn             pink                pink                orange              Town Hall
+6         9         Blueberry Bow       Unicorn             magenta             red                 pink                Train station
+7         9         Blueberry Shoes     Unicorn             red                 cyan                pink                Retirement Village
+8         9         Cherry Brass        Unicorn             green               cyan                pink                Train station
+9         9         Lavender Banter     Unicorn             cyan                pink                pink                Golden Oak Library
+10        9         Magdalena Shores    Unicorn             pink                pink                blue                Golden Oak Library
+11        9         Star Pie            Unicorn             pink                pink                blue                Golden Oak Library
+12        9         Wensley Steps       Unicorn             pink                pink                red                 Golden Oak Library
+13        8         Azure Apple         Unicorn             purple              purple              purple              School of Friendship
+14        8         Barbara Tracker     Unicorn             purple              purple              cyan                Schoolhouse
+15        8         Bell Apple          Unicorn             green               purple              yellow              Crusaders Clubhouse
+16        8         Pinkie Shores       Unicorn             cyan                purple              pink                Schoolhouse
+17        7         Apple Pants         Unicorn             orange              blue                cyan                Theater
+18        7         Charity Pie         Unicorn             yellow              orange              orange              Retirement Village
+19        7         Lotus Bangs         Unicorn             green               orange              brown               Schoolhouse
+20        7         Marble Butter       Unicorn             red                 brown               orange              Castle of Friendship
+21        7         Quibble Fauna       Unicorn             orange              green               pink                Town Hall
+22        7         Quibble Pop         Unicorn             magenta             pink                orange              Castle of Friendship
+23        7         Trouble Curls       Unicorn             orange              cyan                cyan                Town Hall
+24        7         Wensley Curls       Unicorn             red                 orange              magenta             Crusaders Clubhouse
+25        6         Beauty Pommel       Unicorn             magenta             red                 red                 Crusaders Clubhouse
+26        6         Charity Blossom     Unicorn             yellow              orange              red                 Castle of Friendship
+27        6         Charity Shores      Unicorn             brown               red                 red                 Golden Oak Library
+28        6         Cheerilee Brass     Unicorn             blue                pink                red                 Retirement Village
+29        6         Limestone Split     Unicorn             green               blue                red                 Retirement Village
+30        6         Magdalena Bobbin    Unicorn             cyan                red                 yellow              Golden Oak Library
+31        6         Star Pop            Unicorn             green               cyan                red                 Retirement Village
+32        5         Avaron Velour       Unicorn             brown               yellow              red                 Schoolhouse
+33        5         Blue Perin          Unicorn             brown               red                 yellow              Train station
+34        5         Feather Kindheart   Unicorn             cyan                pink                yellow              Train station
+35        5         Limestone Tracker   Unicorn             yellow              orange              blue                Town Hall
+36        5         Sapphire Bangs      Unicorn             yellow              yellow              blue                Golden Oak Library

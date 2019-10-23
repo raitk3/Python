@@ -1,0 +1,42 @@
+PLACE     POINTS    NAME                KIND                COAT COLOR          MANE COLOR          EYE COLOR           LOCATION
+--------------------------------------------------------------------------------------------------------------------------------
+1         10        Amaranthine Bow     Alicorn             orange              green               magenta             Retirement Village
+2         10        Avaron Bangs        Alicorn             cyan                magenta             pink                Crusaders Clubhouse
+3         10        Blue Brella         Alicorn             magenta             yellow              blue                Town Hall
+4         10        Cloudy Shoes        Alicorn             magenta             magenta             yellow              Theater
+5         10        Prim Bobbin         Alicorn             green               magenta             magenta             Retirement Village
+6         9         Barbara Apple       Alicorn             red                 yellow              pink                Train station
+7         9         Blue Jubilee        Alicorn             orange              pink                cyan                Golden Oak Library
+8         9         Cherry Kindheart    Alicorn             pink                purple              blue                School of Friendship
+9         9         Gizmo Pie           Alicorn             pink                red                 blue                Town Hall
+10        9         Lotus Fauna         Alicorn             red                 blue                pink                Train station
+11        9         Mage Bangs          Alicorn             pink                purple              green               School of Friendship
+12        9         Maud Bangs          Alicorn             pink                purple              blue                School of Friendship
+13        9         Perfect Bow         Alicorn             pink                green               red                 School of Friendship
+14        9         Prim Steps          Alicorn             green               cyan                pink                Castle of Friendship
+15        8         Ambrosia Bumpkin    Alicorn             yellow              purple              magenta             Schoolhouse
+16        8         Lotus Pie           Alicorn             red                 purple              purple              Train station
+17        8         Pinkie Quartz       Alicorn             magenta             purple              blue                Schoolhouse
+18        8         Wensley Fritter     Alicorn             purple              yellow              green               Theater
+19        7         Apple Bangs         Alicorn             cyan                red                 orange              Castle of Friendship
+20        7         Apple Dumpling      Alicorn             orange              red                 orange              Train station
+21        7         Apple Perin         Alicorn             magenta             brown               orange              Retirement Village
+22        7         Cherry Banter       Alicorn             yellow              yellow              orange              Retirement Village
+23        7         Coco Pants          Alicorn             blue                purple              orange              Train station
+24        7         Magdalena Banter    Alicorn             brown               orange              pink                Golden Oak Library
+25        7         Mudbriar Quartz     Alicorn             orange              green               magenta             Town Hall
+26        6         Apricot Tracker     Alicorn             red                 pink                magenta             Theater
+27        6         Charity Pop         Alicorn             red                 purple              yellow              School of Friendship
+28        6         Cloudy Jubilee      Alicorn             orange              red                 orange              Schoolhouse
+29        6         Cloudy Pommel       Alicorn             red                 green               purple              Theater
+30        6         Cloudy Shill        Alicorn             brown               green               red                 Castle of Friendship
+31        6         Coco Shoes          Alicorn             red                 red                 cyan                Crusaders Clubhouse
+32        6         Hoofer Shores       Alicorn             brown               red                 orange              Schoolhouse
+33        6         Magdalena Pommel    Alicorn             red                 brown               blue                Town Hall
+34        5         Bella Fritter       Alicorn             yellow              red                 pink                Town Hall
+35        5         Cherry Pie          Alicorn             purple              brown               yellow              Train station
+36        5         Mage Shores         Alicorn             orange              yellow              yellow              Crusaders Clubhouse
+37        5         Mudbriar Appleby    Alicorn             yellow              cyan                green               Town Hall
+38        5         Prim Shores         Alicorn             purple              blue                yellow              Castle of Friendship
+39        5         Star Shores         Alicorn             yellow              red                 yellow              Castle of Friendship
+40        5         Twisty Pop          Alicorn             blue                green               yellow              Train station
